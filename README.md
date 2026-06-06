@@ -4,7 +4,7 @@
 
 <p align="center">
    Estudante de Computação <br>
-  Interessada na integração entre Arte e inocação na área de tecnologia <br>
+  Interessada na integração entre Arte e inovação na área de tecnologia <br>
 </p>
 
 ---
