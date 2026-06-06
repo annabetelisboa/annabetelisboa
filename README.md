@@ -2,22 +2,20 @@
   <img src="assets/capa_github.gif" alt="Banner Animado" width="100%">
 </p>
 
-<h1 align="center">Hello there 👋</h1>
-
 <p align="center">
-  💻 Estudante de Computação <br>
-  🎨 Interessada na integração entre Arte e inocação na área de tecnologia <br>
+   Estudante de Computação <br>
+  Interessada na integração entre Arte e inocação na área de tecnologia <br>
 </p>
 
 ---
 
-## 🌟 Sobre Mim
+##  Sobre Mim
 
 Atualmente estudante de ciência da computação com diversos interesses, porém um objetivo: poder mesclar arte e tecnologia de forma inovadora.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github" />
@@ -25,17 +23,17 @@ Atualmente estudante de ciência da computação com diversos interesses, porém
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🎮 Jogo de Aventura no-code
+###  Jogo de Aventura no-code
 Projeto desenvolvido com o objetivo de valoriar cultura nordestina e traze-la para o mundo dos jogos digitais.
 
-### 🏃 Sistema de Cadastro de Atletas
+###  Sistema de Cadastro de Atletas
 Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=annabetelisboa&show_icons=true&theme=github_dark&hide_border=true" />
@@ -44,7 +42,7 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 
 ---
 
-## 🟡 Pac-Man das Contribuições
+## Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pacman contribution graph">
@@ -55,7 +53,7 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 ## 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anna-elizabete-asfora-lisboa-santos-466b353b3/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -63,5 +61,5 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 ---
 
 <p align="center">
-  ✨ Arte + Tecnologia + Criatividade ✨
+   Arte + Tecnologia + Criatividade 
 </p>
