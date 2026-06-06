@@ -50,7 +50,7 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 
 ---
 
-## 🌐 Conecte-se Comigo
+##  Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anna-elizabete-asfora-lisboa-santos-466b353b3/">
