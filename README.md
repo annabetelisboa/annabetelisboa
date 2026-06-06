@@ -2,19 +2,18 @@
   <img src="assets/capa_github.gif" alt="Banner Animado" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou Anne Lisboa 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 <p align="center">
   💻 Estudante de Computação <br>
-  🎨 Interessada na integração entre Arte e Programação <br>
-  🚀 Sempre aprendendo e desenvolvendo novos projetos
+  🎨 Interessada na integração entre Arte e inocação na área de tecnologia <br>
 </p>
 
 ---
 
 ## 🌟 Sobre Mim
 
-Sou estudante de Computação com interesse em explorar como a tecnologia pode se conectar com a criatividade, utilizando programação e arte para construir experiências e soluções inovadoras.
+Atualmente estudante de ciência da computação com diversos interesses, porém um objetivo: poder mesclar arte e tecnologia de forma inovadora.
 
 ---
 
@@ -28,11 +27,11 @@ Sou estudante de Computação com interesse em explorar como a tecnologia pode s
 
 ## 📂 Projetos em Destaque
 
-### 🎮 Jogo de Aventura
-Projeto desenvolvido no Code para praticar lógica de programação e construção de narrativas interativas.
+### 🎮 Jogo de Aventura no-code
+Projeto desenvolvido com o objetivo de valoriar cultura nordestina e traze-la para o mundo dos jogos digitais.
 
 ### 🏃 Sistema de Cadastro de Atletas
-Sistema em Python para cadastro e organização de atletas em diferentes modalidades esportivas.
+Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 
 ---
 
