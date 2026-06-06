@@ -36,8 +36,8 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 ## Estatísticas GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=annabetelisboa&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabetelisboa&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annabetelisboa&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabetelisboa&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
