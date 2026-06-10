@@ -53,5 +53,5 @@ Sistema em Python para cadastro e organização de treinos para atletas HYROX.
 ---
 
 <p align="center">
-   Arte + Tecnologia + Criatividade 
+   Tecnologia + Criatividade 
 </p>
